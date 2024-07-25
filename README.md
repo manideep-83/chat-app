@@ -10,5 +10,8 @@ Welcome to LiveChatApp, the  platform for seamless and engaging communication. W
 # How to Run the Application
  install node_modules in 3 folders by using npm install command
  after installation use npm run start in chat-frontend and npm run start in chat-backend and nodemon in chat-socket . 3 folders should need to run 3 commands to run the application
+
+# Demo
+ Screenshots have been uploaded in seperate folder
 # Technologies used:
   MERN stack,Tailwind css,Framer Motion,Socket.io
